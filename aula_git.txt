@@ -3,7 +3,7 @@
 3. `git commit` - Cria um novo registro de versão (commit) com as alterações preparadas.
 4. `git status` - Mostra o estado atual dos arquivos no repositório.
 5. `git log` - Exibe o histórico de commits.
-6. `git branch` - Lista, cria ou deleta branches.
+6. `git branchgit` - Lista, cria ou deleta branches.
 7. `git checkout` - Muda entre branches ou restaure arquivos.
 8. `git merge` - Combina as mudanças de um branch em outro.
 9. `git remote add` - Adiciona um repositório remoto.
